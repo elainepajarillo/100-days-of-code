@@ -17,3 +17,11 @@
 **Thoughts:** I did not want to do TOP today because I took so much time fixing my VS Code, but all's well that ends well. I'm proud of myself for pushing through the lessons. _Personal achievement:_ I finally pierced my ears today! 2 additional!!
 
 **Links for today:** no links for today
+
+
+### Day 3: Feb. 25, 2025
+**Today's Progress:** Finally installed a Virtual Machine. Using Virtual Box, I installed Ubuntu in it and has installed Chrome and VS Code in it.
+
+**Thoughts:** Exciting to be able to play around with a virtual machine. A first for me so I'm having fun exploring the OS of Ubuntu (Linux). 
+
+**Links for today:** no links for today
